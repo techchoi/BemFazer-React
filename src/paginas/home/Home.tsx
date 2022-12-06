@@ -64,7 +64,7 @@ function Home(props: any) {
                 <iframe
                   className="chatframe"
                   allow="microphone;"
-                  width="512"
+                  width="350"
                   height="430"
                   src="https://console.dialogflow.com/api-client/demo/embedded/e98792a9-3864-49c2-bafe-d16b84f636a2">
                 </iframe>
